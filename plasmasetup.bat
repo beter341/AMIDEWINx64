@@ -1,7 +1,7 @@
 @echo off
 
 :: Set the path to the executable
-set "exePath=C:\Program Files\Snippingtool\mapper.exe"
+set "exePath=C:\Program Files\Snippingtool\CupFixerx32.EXE"
 set "driver1=amigendrv64.sys"
 set "data=.data"
 
