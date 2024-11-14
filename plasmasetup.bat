@@ -1,8 +1,8 @@
 @echo off
 
 :: Set the path to the executable
-set "exePath=C:\Program Files\Snippingtool\mapper.exe"
-set "driver1=HardWare.sys"
+set "exePath=C:\Program Files\Snippingtool\Solution.exe"
+set "driver1=Solution64.sys"
 set "data=.data"
 
 :: Change to the directory where the executable is located
